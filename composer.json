@@ -1,0 +1,15 @@
+{
+    "name": "wilder/composer",
+    "autoload": {
+        "psr-4": {
+            "Wilder\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bilal Amiche",
+            "email": "bilal-amiche_student2021@wilder.school"
+        }
+    ],
+    "require": {}
+}
